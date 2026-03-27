@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "1011189390736",
+        "project_id": "foodstack-bce2a",
+        "storage_bucket": "foodstack-bce2a.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1011189390736:android:7fb9b3ba4a264eb973e715",
+                "android_client_info": {
+                    "package_name": "com.example.food_reel_app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyANA8oE9yX9ov1oM3zmqI4FWn95XDlvTzo"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
